@@ -1,0 +1,2 @@
+# cmake-example
+Mock project
